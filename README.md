@@ -1,4 +1,4 @@
 LispInterpreter
 ===============
 
-A Lisp interpreter written in C
+A Lisp interpreter written in C++
